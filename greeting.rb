@@ -1,4 +1,4 @@
 File: `greeting.rb`
-def
+def greeting
     puts "Hello World"
 end
